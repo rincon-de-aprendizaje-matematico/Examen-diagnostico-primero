@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Primero</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FEFFF0</corfondo>
+        <corbanda>FFCD9B</corbanda>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>EXÁMEN DIAGNÓTICO</titulo>
+        <subtitulo>GRADO PRIMERO</subtitulo>
+        <logo>Logo_--fotor-20241104133318.png</logo>
+        <imaxefondo posx="-162" posy="82" trans="40">Fondo_-.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Correcto.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <texto posx="97" posy="143" ancho="31" largo="238"><![CDATA[
+<p align="center">
+<font color="#080000" face="Century" size="28"><i>E</i></font><font color="#080000" face="Century" size="24"><i>ste examen de diagnóstico evalúa tus conocimientos actuales en matemáticas para identificar áreas de mejora. No es evaluativo, sino una herramienta para guiar tu aprendizaje y ayudarte a avanzar. Aquí encontrarás preguntas sobre números, recuentos y relaciones entre cantidades. ¡Tómate tu tiempo y diviértete explorando el mundo de los números!</i><br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>FEFFF0</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>Escoge la pecera donde hay más peces</cabeceira>
+              <etiqueta imaxe="Punto_1.png" texto="">1</etiqueta>
+              <etiqueta imaxe="punto_1-.png" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>C0C0C0</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <cabeceira>Arrastra a las bolsas lo que se indica</cabeceira>
+              <peza imaxe="Punto_2.png" texto="Mas dulces" son="">punto_2_--.png</peza>
+              <peza imaxe="Punto_2.png" texto="Menos dulces" son="">Punto_2_-.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>23</tipo>
+              <cabeceira>Ubica los números que faltan</cabeceira>
+              <imaxe>punto_3_.png</imaxe>
+              <etiqueta posx="152" posy="180">dos.png</etiqueta>
+              <etiqueta posx="264" posy="183">cuatro.png</etiqueta>
+              <etiqueta posx="322" posy="182">cinco.png</etiqueta>
+              <etiqueta posx="436" posy="183">siete.png</etiqueta>
+              <etiqueta posx="545" posy="178">nueve.png</etiqueta>
+              <etiqueta posx="603" posy="177">diez.png</etiqueta>
+        </paxina>
+        <paxina id="5" >
+              <tipo>30</tipo>
+              <cabeceira>Escribe cuántos objetos hay en cada caso</cabeceira>
+              <imaxe posx="140" posy="0">punto_4_.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="176" posy="66">4</etiqueta>
+              <etiqueta posx="173" posy="215">7</etiqueta>
+              <etiqueta posx="181" posy="347">8</etiqueta>
+              <etiqueta posx="460" posy="63">5</etiqueta>
+              <etiqueta posx="459" posy="211">10</etiqueta>
+              <etiqueta posx="462" posy="342">9</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>37</tipo>
+              <cabeceira>Escribe el nombre de cada número</cabeceira>
+              <texto><![CDATA[6
+
+10
+
+5
+
+8
+
+0
+
+7]]></texto>
+              <completa>seis</completa>
+              <completa>diez</completa>
+              <completa>cinco</completa>
+              <completa>ocho</completa>
+              <completa>cero</completa>
+              <completa>siete</completa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>44</tipo>
+              <cabeceira>Asocia el nombre con la figura que corresponde</cabeceira>
+              <cousa nome="Cuadrado" son="">cuadrado.png</cousa>
+              <cousa nome="Triángulo" son="">triangulo.png</cousa>
+              <cousa nome="Circulo" son="">circulo.png</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>32</tipo>
+              <cabeceira>Completa la serie</cabeceira>
+              <modo>1</modo>
+              <etiqueta>triangulo.png</etiqueta>
+              <etiqueta>cuadrado.png</etiqueta>
+              <etiqueta>triangulo.png</etiqueta>
+              <etiqueta>circulo.png</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>28</tipo>
+              <cabeceira>¡Has terminado! Ahora puedes volver a la página principal a seguir aprendiendo</cabeceira>
+              <boton texto="Rincon de aprendizaje matemático">https://sites.google.com/view/rincondeaprendizajematematico</boton>
+        </paxina>
+    </libro>
+</lim>
